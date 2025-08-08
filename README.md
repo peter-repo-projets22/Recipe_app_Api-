@@ -1,4 +1,4 @@
-Android studio app development of recipe app with API to load recipes , sign up and login features with firebase database (realtime)
+Android studio app development of recipe app with API to load recipes, search functionality , sign up and login features with firebase database (realtime)
 
 
 
